@@ -1,0 +1,8 @@
+{
+  "name": "CYBER AI BUDDY",
+  "description": "Pembantu pembelajaran keselamatan dan kerahsiaan data interaktif bersama Cikgu Amal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
